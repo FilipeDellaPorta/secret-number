@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> :bookmark: Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Minha versão do jogo número secreto da Alura.</p>
 
 ## :rocket: Tecnologias
 <div>
@@ -11,3 +11,5 @@
 </div>
 
 # Time
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/125392790?v=4" width=115><br>FilipeDellaPorta](https://github.com/FilipeDellaPorta) |
+| :---: |
