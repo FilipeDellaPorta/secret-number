@@ -11,5 +11,5 @@
 </div>
 
 # Time
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/125392790?v=4" width=115><br>FilipeDellaPorta](https://github.com/FilipeDellaPorta) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/125392790?v=4" width=115>](https://github.com/FilipeDellaPorta)<br>Filipe Della Porta |
 | :---: |
